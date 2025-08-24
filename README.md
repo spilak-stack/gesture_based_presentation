@@ -73,7 +73,10 @@ Install all required packages using the `requirements.txt` file.
 uv pip install -r requirements.txt
 ```
 
-**4. Run the Program**
+**4. Add Presentation Files**
+Place your presentation files (e.g., image files) into the `source` folder.
+
+**5. Run the Program**
 ```bash
 python run.py
 ```
@@ -83,3 +86,4 @@ python run.py
 
 
 This project is licensed under the MIT License.
+
