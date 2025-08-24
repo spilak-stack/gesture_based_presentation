@@ -51,7 +51,7 @@ Follow these steps to run the project locally.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/gesture_based_presentation.git](https://github.com/your-username/gesture_based_presentation.git)
+git clone https://github.com/spilak-stack/gesture_based_presentation/
 cd gesture_based_presentation
 ```
 
@@ -80,5 +80,6 @@ python run.py
 ---
 
 ## 📄 License
+
 
 This project is licensed under the MIT License.
